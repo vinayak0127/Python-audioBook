@@ -14,3 +14,11 @@ pyttsx3 library
  python has a library that is capable to convert text to speech offlinr
  Text that we are reading from a pdf file suing pypdf2 library is fed 
  as an input to text to speech.
+ 
+ play the audio book 
+ extract the text from the pdf file page by page using the PyPDF2 implementation .
+ loop through each page ,by reading the text and feeding it to the pyttsx3 speaker 
+ eingine.
+ it will read out loud the text from pdf page 
+ 
+ 
