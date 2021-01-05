@@ -1,0 +1,16 @@
+PyPDF2 library
+python has a lib ppdff2 which is built as a pdf toolkit.
+it allows pdf manipulation in memory
+this lib is capable of :
+
+*extracting docs informaton ,such as title ,author etc.
+
+*splitting docs by pages  
+
+*merging documents by pages into a single page 
+ and more.
+
+pyttsx3 library
+ python has a library that is capable to convert text to speech offlinr
+ Text that we are reading from a pdf file suing pypdf2 library is fed 
+ as an input to text to speech.
